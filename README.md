@@ -4,8 +4,9 @@ This repository includes the RShiny code and data for an interactive map of CPS 
 
 Input data obtained from <a href="https://www.isbe.net/pages/illinois-state-report-card-data.aspx"> Illinois Report Card's Report Card Data Library </a>.
 
-#Shiny Map
-Link to <a href = "https://yiningw.shinyapps.io/CPSRaceEnroll/"> Shiny App </a>
+<b>Shiny Map</b>
+</p>
+Link to <a href = "https://yiningw.shinyapps.io/CPSRaceEnroll/"> Shiny App </a><p><p>
 
-#Analysis
+<b>Analysis</b><p>
 <i> app.R </i> - Code for map using RLeaflet
