@@ -11,4 +11,5 @@ Link to <a href = "https://yiningw.shinyapps.io/CPSRaceEnroll/"> Shiny App </a><
 <p>
 <b>Analysis</b><p>
 <i> app.R </i> - Code for map using RLeaflet 
+  <p>
   <i> enroll_race_info.csv </i> - dataset. Includes school code, school address and lat-long info, school name, % enrollment per race.
